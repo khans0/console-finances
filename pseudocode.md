@@ -1,18 +1,21 @@
 #pseudocode
 
-- total months varibel = .length to calculate total number of months
+- calculate total number of months in data (.length)
+- net total profit (for loop)
+- changed in profit/losses (total change in profits/number of months = avergae profit change)
 
-- for loop to add all the profits and display
+-largest increase in profits 
 
-- for loop create changes in profit array
+- largest decrease in losses
 
-- variable for total change in profits
-
-- the totachangeinprofidts/number of months = will give average profits changed
-
-- console.log to show greatets increase of profits (date and amount)
-
-- console.log to show greatest losses (date and time)
-
-
+- should look like this when completed 
+```text
+  Financial Analysis
+  ----------------------------
+  Total Months: 25
+  Total: $2561231
+  Average  Change: $-2315.12
+  Greatest Increase in Profits: Feb-2012 ($1926159)
+  Greatest Decrease in Profits: Sep-2013 ($-2196167)
+  ```
 
