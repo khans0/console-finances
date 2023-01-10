@@ -13,7 +13,7 @@
 ​
 ### �� What is it about?
 ​
-[comment]: <This project was to use the concepts I have learnt i.e. varibles, arrays, iterations and for-else statements to analyse financial records of a company.> 
+[comment]: This project was to use the concepts I have learnt i.e. varibles, arrays, iterations and for-else statements to analyse financial records of a company. 
 ​
 ## �� USAGE
 ​
@@ -36,20 +36,20 @@ It's done when:
 ​
 ### �� What I've learnt
 ​
-[comment]: <I have learnt several javascript funtions. I have learnt how to work out the length of data, to work out the total profit, the averages, the largest and smallest profits, all in console.log.> 
+[comment]: I have learnt several javascript funtions. I have learnt how to work out the length of data, to work out the total profit, the averages, the largest and smallest profits, all in console.log.
 ​
 ### ➕ Suggestions for improvement
 ​
-[comment]: <I could use html/css to bring those results from the console onto a webpage> 
+[comment]:I could use html/css to bring those results from the console onto a webpage
 ​
 ## �� INSTALLATION
 ​
-[comment]: <No Installation needed>
+[comment]: No Installation needed
 ​
 ## �� CREDITS
 ​
-[comment]: <No collaborators>
+[comment]: No collaborators
 ​
 ## �� LICENSE
 ​
-[comment]: <License same as the one on github>
+[comment]: License same as the one on github
